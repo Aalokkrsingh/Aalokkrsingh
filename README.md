@@ -1,7 +1,7 @@
 ![logo](https://github.com/Aalokkrsingh/Aalokkrsingh/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Aalok kumar singh</h1>
 <h3 align="center">A passionate programmer and want to learn new technologies</h3>
-<img align="right" alt="coding" width=300 border-radius=10 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKtnjaO53oMhGoI5Ke8MD_UB6TzISg4iLWPw&s">
+<img align="right" alt="coding" width=300 border-radius=10 src="https://www.gifcen.com/wp-content/uploads/2023/11/hacker-gif-7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aalokkrsingh&label=Profile%20views&color=0e75b6&style=flat" alt="aalokkrsingh" /> </p>
 
 - 🔭 I’m currently working on **India Innovation Center Website**
