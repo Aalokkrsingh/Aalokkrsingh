@@ -1,3 +1,4 @@
+![logo](https://github.com/Aalokkrsingh/Aalokkrsingh/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Aalok kumar singh</h1>
 <h3 align="center">A passionate programmer and want to learn new technologies</h3>
 
