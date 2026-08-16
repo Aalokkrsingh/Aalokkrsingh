@@ -27,6 +27,50 @@ I'm continuously strengthening my engineering skills through hands-on projects, 
 
 ---
 
+## Featured Projects
+
+### 01 — Modern Data Warehouse
+
+**SQL Server · T-SQL · ETL · Data Modeling**
+
+Designed and implemented a modern data warehouse using a Bronze, Silver, and Gold architecture to transform raw ERP and CRM data into structured analytical datasets.
+
+- Built ETL pipelines for data ingestion, cleaning, and transformation
+- Designed a star schema with fact and dimension tables
+- Implemented data quality checks and analytical SQL reporting
+
+[View Project →](https://github.com/Aalokkrsingh/sql-data-warehouse-project)
+
+
+### 02 — Mutual Fund Analytics Platform
+
+**Python · SQL · Pandas · Power BI / Tableau**
+
+Built an end-to-end financial data platform to consolidate mutual fund data, model historical NAV information, and analyze fund performance and investor behavior.
+
+- Engineered an ETL pipeline processing 87,000+ records across 10 public datasets
+- Designed a 5-table star schema covering 4.5 years of NAV history
+- Calculated risk-adjusted metrics including Sharpe, Sortino, Alpha, and Beta
+- Analyzed 32,000+ investor transactions across 5,000 investors
+
+[View Project →](https://github.com/Aalokkrsingh/Bluestock-mf-capstone)
+
+
+### 03 — Advertising Data Analytics using Spark
+
+**Apache Spark · HDFS · Scala · Spark SQL**
+
+Built a distributed data processing workflow for advertising data using Apache Spark and Cloudera, covering data ingestion, transformation, and analytical querying.
+
+- Ingested and managed the advertising dataset using Cloudera HDFS
+- Processed data using Spark RDDs and converted it into structured DataFrames
+- Created temporary tables and performed analytical queries using Spark SQL
+- Analyzed sales through aggregations, filtering, sorting, and city-level analysis
+
+[View Project →](https://github.com/Aalokkrsingh/Advertising-Data-Analytics-Spark-)
+
+---
+
 ## What I Build
 
 | Data Engineering | Data Analytics | Applied AI |
