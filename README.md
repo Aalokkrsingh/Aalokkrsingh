@@ -2,7 +2,7 @@
 
 # Hi, I'm Aalok Kumar Singh 👋
 
-### Aspiring Data Engineer | BCA (AI & Data Science)
+### Aspiring Data Engineer 
 
 Building data pipelines, data warehouses, analytics solutions, and data-driven projects with modern data technologies.
 
