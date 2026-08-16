@@ -71,6 +71,31 @@ Built a distributed data processing workflow for advertising data using Apache S
 
 ---
 
+## Currently Building
+
+I'm currently focused on strengthening my Data Engineering skills through hands-on projects and structured learning.
+
+### Current Focus
+
+- **Advanced SQL** — query optimization, analytical queries, and complex transformations
+- **Data Engineering** — ETL pipelines, data warehousing, and dimensional modeling
+- **Apache Spark** — distributed data processing, DataFrames, and Spark SQL
+- **Microsoft Data Platform** — exploring modern data engineering workflows with Microsoft Fabric and Azure
+
+> Building consistently, learning by doing, and documenting the process along the way.
+
+## Learning in Public
+
+I'm documenting my Data Engineering journey through hands-on practice, projects, technical notes, and experiments.
+
+### What I'm Working Through
+
+`SQL` → `Data Warehousing` → `ETL` → `PySpark` → `Cloud Data Engineering`
+
+My learning focuses on understanding how data moves through real systems — from ingestion and transformation to storage, modeling, processing, and analytics.
+
+📌 **Follow the journey:** [Data Engineering Journey →](YOUR_JOURNEY_REPOSITORY_URL)
+
 ## What I Build
 
 | Data Engineering | Data Analytics | Applied AI |
