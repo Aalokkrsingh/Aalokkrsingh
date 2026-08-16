@@ -18,11 +18,12 @@ Building data pipelines, data warehouses, analytics solutions, and data-driven p
 
 ## About Me
 
-I'm a BCA student specializing in Artificial Intelligence & Data Science, currently focused on building my career in Data Engineering.
 
-I enjoy working with data from ingestion and transformation to storage, analysis, and visualization. My current focus is strengthening my foundations in SQL, Python, data warehousing, PySpark, and modern data platforms through hands-on projects.
+I'm focused on building practical data solutions across the data engineering and analytics lifecycle — from data ingestion and transformation to modeling, storage, and reporting.
 
-I'm particularly interested in building practical, production-oriented data solutions rather than learning technologies in isolation.
+My current work revolves around SQL, Python, ETL pipelines, data warehousing, data modeling, and analytical systems. I enjoy taking raw datasets and turning them into structured, reliable, and useful data products.
+
+I'm continuously strengthening my engineering skills through hands-on projects, technical learning, and real-world data problems.
 
 ---
 
