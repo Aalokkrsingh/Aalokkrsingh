@@ -8,7 +8,7 @@ Building data pipelines, data warehouses, analytics solutions, and data-driven p
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/aalok-kr-singh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aalok-kr-singh/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aalokkrsingh27@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Aalokkrsingh-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aalokkrsingh)
 
